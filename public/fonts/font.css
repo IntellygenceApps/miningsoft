@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'BAHAMAS0';
+	src: url('./BAHAMAS0.eot');
+	src: local('BAHAMAS0'), url('./BAHAMAS0.woff') format('woff'), url('./BAHAMAS0.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_38044">Text with this font applied</p> */
+.fontsforweb_fontid_38044 {
+	font-family: 'BAHAMAS0' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */
